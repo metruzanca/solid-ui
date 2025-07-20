@@ -1,6 +1,8 @@
 node_modules
-dist
 gitignore
 
 # tsup
 tsup.config.bundled_*.{m,c,}s
+
+# I'm using github as my package registry, so I don't need to ignore the dist folder
+# dist
