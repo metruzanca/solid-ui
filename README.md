@@ -8,29 +8,16 @@
 
 My personal repository of Solidjs components and utilities
 
-> **Note** After using this template, you have to search and replace all `solid-ui` and similar strings
-> with appropriate texts.
->
-> `solid-ui` should be a **kebab-case** string representing the name of you monorepo.
->
-> `My personal repository of Solidjs components and utilities` should be a **Normal case** string with the description of the repository.
->
-> `metruzanca` should be a **kebab-case** string from your profile URL.
-
 ## Quick start
 
 Install it:
 
 ```bash
-npm i solid-ui
-# or
-yarn add solid-ui
-# or
-pnpm add solid-ui
+pnpm add metruzanca/solid-ui
 ```
 
 Use it:
 
 ```tsx
-import solid-ui from 'solid-ui'
+import { /* things */ } from 'solid-ui'
 ```
