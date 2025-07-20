@@ -21,3 +21,7 @@ Use it:
 ```tsx
 import { /* things */ } from 'solid-ui'
 ```
+
+---
+
+Tempalte used: https://github.com/solidjs-community/solid-lib-starter
